@@ -1,0 +1,74 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@theme {
+  --font-serif: "Cormorant Garamond", serif;
+  --font-sans: "Inter", sans-serif;
+  
+  --color-paper: #FDFCFB;
+  --color-ink: #1A1A1A;
+  --color-muted: #666666;
+  --color-border: rgba(26, 26, 26, 0.1);
+  --color-accent: #2C3E50;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  p {
+    line-height: 1.6;
+  }
+
+  ::selection {
+    background-color: var(--color-accent);
+    color: white;
+  }
+}
+
+@layer components {
+  .container-wide {
+    @apply max-w-7xl mx-auto px-6 md:px-12 lg:px-24;
+  }
+  
+  .container-narrow {
+    @apply max-w-3xl mx-auto px-6;
+  }
+
+  .nav-link {
+    @apply text-xs uppercase tracking-widest font-medium opacity-60 hover:opacity-100 transition-opacity duration-300;
+  }
+
+  .nav-link-active {
+    @apply opacity-100;
+  }
+
+  .btn-primary {
+    @apply px-8 py-3 bg-ink text-paper text-xs uppercase tracking-widest font-semibold hover:bg-accent transition-colors duration-300;
+  }
+
+  .btn-outline {
+    @apply px-8 py-3 border border-ink text-ink text-xs uppercase tracking-widest font-semibold hover:bg-ink hover:text-paper transition-all duration-300;
+  }
+}
+
+/* Custom fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
