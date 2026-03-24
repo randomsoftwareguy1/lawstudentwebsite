@@ -1,0 +1,1566 @@
+1
+Stanford University logo
+Stanford University
+Stanford, California
+173
+3.96
+8.9%
+40%
+1
+Yale University logo
+Yale University
+New Haven, Connecticut
+174
+3.96
+5.3%
+31%
+3
+University of Chicago logo
+University of Chicago
+Chicago, Illinois
+174
+3.97
+12.7%
+49%
+4
+University of Virginia logo
+University of Virginia
+Charlottesville, Virginia
+173
+3.99
+13.9%
+60%
+5
+University of Pennsylvania logo
+University of Pennsylvania
+Philadelphia, Pennsylvania
+173
+3.95
+10.0%
+64%
+6
+Harvard University logo
+Harvard University
+Cambridge, Massachusetts
+174
+3.96
+11.0%
+51%
+HYS
+6
+Duke University logo
+Duke University
+Durham, North Carolina
+171
+3.91
+13.9%
+68%
+T6
+8
+New York University logo
+New York University
+New York City, New York
+172
+3.92
+16.7%
+54%
+8
+University of Michigan logo
+University of Michigan
+Ann Arbor, Michigan
+171
+3.88
+11.9%
+50%
+10
+Columbia University logo
+Columbia University
+New York City, New York
+173
+3.92
+11.8%
+65%
+10
+Northwestern University logo
+Northwestern University
+Evanston, Illinois
+173
+3.96
+15.4%
+64%
+12
+University of California—Los Angeles logo
+University of California—Los Angeles
+Los Angeles, California
+171
+3.95
+16.1%
+51%
+13
+University of California—Berkeley logo
+University of California—Berkeley
+Berkeley, California
+170
+3.92
+17.3%
+52%
+14
+Washington University in St. Louis logo
+Washington University in St. Louis
+St. Louis, Missouri
+175
+3.96
+19.9%
+39%
+14
+Georgetown University logo
+Georgetown University
+Washington, D.C., Washington, D.C.
+171
+3.93
+20.1%
+55%
+14
+Vanderbilt University logo
+Vanderbilt University
+Nashville, Tennessee
+170
+3.91
+18.5%
+48%
+14
+University of Texas at Austin logo
+University of Texas at Austin
+Austin, Texas
+172
+3.89
+15.6%
+42%
+T14
+↑2 18
+University of North Carolina logo
+University of North Carolina
+Chapel Hill, North Carolina
+168
+3.89
+15.2%
+25%
+18
+Cornell University logo
+Cornell University
+Ithaca, New York
+173
+3.92
+23.1%
+72%
+20
+University of Notre Dame logo
+University of Notre Dame
+South Bend, Indiana
+170
+3.89
+23.3%
+40%
+20
+University of Minnesota logo
+University of Minnesota
+Minneapolis, Minnesota
+171
+3.88
+34.9%
+16%
+22
+University of Georgia logo
+University of Georgia
+Athens, Georgia
+169
+3.92
+14.5%
+17%
+22
+Texas A&M University logo
+Texas A&M University
+Fort Worth, Texas
+169
+4.00
+13.5%
+19%
+22
+Boston University logo
+Boston University
+Boston, Massachusetts
+170
+3.88
+20.6%
+36%
+25
+Boston College logo
+Boston College
+Newton, Massachusetts
+168
+3.83
+13.3%
+44%
+T25
+26
+Wake Forest University logo
+Wake Forest University
+Winston-Salem, North Carolina
+166
+3.79
+26.8%
+25%
+26
+University of Southern California logo
+University of Southern California
+Los Angeles, California
+169
+3.91
+12.4%
+57%
+28
+University of Wisconsin logo
+University of Wisconsin
+Madison, Wisconsin
+167
+3.81
+28.9%
+13%
+28
+Ohio State University logo
+Ohio State University
+Columbus , Ohio
+168
+3.91
+29.4%
+13%
+28
+Brigham Young University logo
+Brigham Young University
+Provo, Utah
+170
+3.95
+27.8%
+23%
+31
+George Washington University logo
+George Washington University
+Washington, D.C., Washington, D.C.
+168
+3.86
+32.6%
+30%
+31
+University of Utah logo
+University of Utah
+Salt Lake City, Utah
+166
+3.87
+24.8%
+8%
+31
+University of Alabama logo
+University of Alabama
+Tuscaloosa, Alabama
+167
+3.97
+26.6%
+20%
+31
+William & Mary Law School logo
+William & Mary Law School
+Williamsburg, Virginia
+166
+3.82
+32.2%
+18%
+31
+George Mason University logo
+George Mason University
+Fairfax, Virginia
+169
+3.93
+14.6%
+11%
+↓3 36
+Washington and Lee University logo
+Washington and Lee University
+Lexington, Virginia
+167
+3.75
+31.7%
+21%
+36
+University of Iowa logo
+University of Iowa
+Iowa City, Iowa
+164
+3.78
+59.8%
+16%
+38
+Florida State University logo
+Florida State University
+Tallahassee, Florida
+166
+3.93
+19.9%
+16%
+38
+University of Florida (Levin) logo
+University of Florida (Levin)
+Gainesville, Florida
+169
+3.91
+17.4%
+25%
+38
+Fordham University logo
+Fordham University
+Bronx, New York
+168
+3.79
+22.2%
+42%
+38
+University of California—Irvine logo
+University of California—Irvine
+Irvine, California
+169
+3.80
+17.4%
+29%
+38
+Emory University logo
+Emory University
+Atlanta, Georgia
+166
+3.82
+40.1%
+34%
+43
+Baylor University logo
+Baylor University
+Waco, Texas
+164
+3.77
+26.9%
+7%
+43
+Southern Methodist University logo
+Southern Methodist University
+Dallas, Texas
+167
+3.81
+30.4%
+28%
+45
+Arizona State University logo
+Arizona State University
+Tempe, Arizona
+165
+3.91
+22.1%
+11%
+46
+University of Colorado—Boulder logo
+University of Colorado—Boulder
+Boulder, Colorado
+164
+3.81
+36.4%
+18%
+46
+Indiana University - Bloomington logo
+Indiana University - Bloomington
+Bloomington, Indiana
+164
+3.91
+39.5%
+17%
+48
+Villanova University logo
+Villanova University
+Villanova, Pennsylvania
+164
+3.80
+21.9%
+20%
+48
+University of Illinois—Urbana Champaign logo
+University of Illinois—Urbana Champaign
+Champaign, Illinois
+166
+3.81
+46.8%
+34%
+50
+University of Washington logo
+University of Washington
+Seattle, Washington
+165
+3.76
+40.5%
+16%
+50
+Temple University logo
+Temple University
+Philadelphia, Pennsylvania
+165
+3.76
+35.8%
+18%
+50
+University of Kansas logo
+University of Kansas
+Lawrence, Kansas
+162
+3.85
+38.3%
+10%
+50
+University of California—Davis logo
+University of California—Davis
+Davis, California
+165
+3.70
+33.2%
+26%
+50
+University of Connecticut logo
+University of Connecticut
+Hartford, Connecticut
+162
+3.78
+30.2%
+11%
+T50
+55
+University of Tennessee logo
+University of Tennessee
+Knoxville, Tennessee
+164
+3.89
+26.3%
+10%
+55
+Pepperdine University logo
+Pepperdine University
+Malibu , California
+164
+3.85
+28.4%
+12%
+57
+University of San Diego logo
+University of San Diego
+San Diego, California
+163
+3.84
+37.1%
+13%
+57
+University of Missouri logo
+University of Missouri
+Columbia, Missouri
+161
+3.72
+52.0%
+11%
+59
+University of Arizona logo
+University of Arizona
+Tucson, Arizona
+163
+3.78
+30.4%
+8%
+59
+University of Oklahoma logo
+University of Oklahoma
+Norman, Oklahoma
+162
+3.73
+39.4%
+6%
+59
+Pennsylvania State - Dickinson Law logo
+Pennsylvania State - Dickinson Law
+Carlisle, Pennsylvania
+159
+3.71
+41.3%
+8%
+59
+Marquette University logo
+Marquette University
+Milwaukee, Wisconsin
+158
+3.70
+29.4%
+6%
+63
+Yeshiva University (Cardozo) logo
+Yeshiva University (Cardozo)
+New York City, New York
+165
+3.78
+37.5%
+19%
+63
+University of Houston logo
+University of Houston
+Houston, Texas
+163
+3.79
+28.4%
+22%
+63
+University of South Carolina logo
+University of South Carolina
+Columbia, South Carolina
+162
+3.67
+29.5%
+8%
+63
+University of Maryland logo
+University of Maryland
+Baltimore, Maryland
+164
+3.72
+30.8%
+10%
+63
+St. John's University logo
+St. John's University
+Queens, New York
+164
+3.81
+30.6%
+16%
+68
+Northeastern University logo
+Northeastern University
+Boston, Massachusetts
+164
+3.77
+36.2%
+20%
+68
+Pennsylvania State - Penn State Law logo
+Pennsylvania State - Penn State Law
+State College, Pennsylvania
+—
+—
+51.4%
+—
+68
+University of Kentucky logo
+University of Kentucky
+Lexington, Kentucky
+159
+3.72
+48.2%
+6%
+71
+Catholic University Of America logo
+Catholic University Of America
+Washington, D.C., Washington, D.C.
+161
+3.68
+34.6%
+9%
+↓16 71
+Wayne State University logo
+Wayne State University
+Detroit, Michigan
+164
+3.89
+29.3%
+5%
+71
+Seton Hall University logo
+Seton Hall University
+Newark, New Jersey
+161
+3.71
+42.8%
+11%
+71
+University of Cincinnati logo
+University of Cincinnati
+Cincinnati, Ohio
+159
+3.80
+42.6%
+6%
+71
+Loyola Marymount University—Los Angeles logo
+Loyola Marymount University—Los Angeles
+Los Angeles, California
+163
+3.74
+30.6%
+17%
+71
+Tulane University logo
+Tulane University
+New Orleans, Louisiana
+161
+3.67
+53.0%
+19%
+71
+University of Nebraska logo
+University of Nebraska
+Lincoln, Nebraska
+160
+3.81
+62.1%
+5%
+71
+University of Richmond logo
+University of Richmond
+Richmond, Virginia
+164
+3.81
+42.9%
+12%
+75+
+79
+Drexel University logo
+Drexel University
+Philadelphia, Pennsylvania
+160
+3.76
+37.8%
+17%
+79
+Georgia State University logo
+Georgia State University
+Atlanta, Georgia
+160
+3.64
+36.0%
+9%
+79
+University of Pittsburgh logo
+University of Pittsburgh
+Pittsburgh, Pennsylvania
+160
+3.54
+51.7%
+14%
+79
+University of Nevada—Las Vegas logo
+University of Nevada—Las Vegas
+Las Vegas, Nevada
+160
+3.76
+40.5%
+8%
+79
+Loyola University—Chicago logo
+Loyola University—Chicago
+Chicago , Illinois
+161
+3.70
+43.0%
+16%
+84
+Belmont University logo
+Belmont University
+Nashville, Tennessee
+161
+3.84
+41.4%
+42%
+84
+Louisiana State University logo
+Louisiana State University
+Baton Rouge, Louisiana
+157
+3.74
+49.5%
+2%
+84
+Drake University logo
+Drake University
+Des Moines, Iowa
+156
+3.67
+60.2%
+7%
+84
+Florida International University logo
+Florida International University
+MIami, Florida
+161
+3.80
+21.0%
+10%
+88
+Texas Tech University logo
+Texas Tech University
+Lubbock, Texas
+159
+3.69
+33.5%
+8%
+88
+University of Denver logo
+University of Denver
+Denver, Colorado
+160
+3.66
+53.1%
+9%
+88
+University of Maine logo
+University of Maine
+Portland, Maine
+158
+3.70
+66.5%
+1%
+↓6 88
+University of California (Hastings) logo
+University of California (Hastings)
+San Francisco, California
+—
+—
+37.5%
+—
+92
+University of Miami logo
+University of Miami
+Coral Gables, Florida
+164
+3.79
+29.1%
+20%
+92
+Duquesne University logo
+Duquesne University
+Pittsburgh, Pennsylvania
+157
+3.62
+56.1%
+7%
+94
+Saint Louis University logo
+Saint Louis University
+St. Louis, Missouri
+157
+3.61
+62.0%
+7%
+94
+University of St. Thomas (Minnesota) logo
+University of St. Thomas (Minnesota)
+Minneapolis, Minnesota
+159
+3.72
+64.4%
+3%
+94
+Regent University logo
+Regent University
+Virginia Beach, Virginia
+158
+3.68
+44.3%
+0%
+94
+University of Buffalo—SUNY logo
+University of Buffalo—SUNY
+Buffalo, New York
+157
+3.71
+44.6%
+3%
+94
+University of Oregon logo
+University of Oregon
+Eugene, Oregon
+160
+3.62
+66.4%
+3%
+99
+University of Missouri—Kansas City logo
+University of Missouri—Kansas City
+Kansas City, Missouri
+156
+3.65
+61.9%
+10%
+99
+University of Montana logo
+University of Montana
+Missoula, Montana
+156
+3.64
+58.1%
+3%
+99
+Lewis And Clark College logo
+Lewis And Clark College
+Portland, Oregon
+161
+3.59
+63.3%
+3%
+99
+Stetson University logo
+Stetson University
+Gulfport, Florida
+159
+3.63
+41.0%
+8%
+99
+University of Hawaii logo
+University of Hawaii
+Honolulu, Hawaii
+158
+3.62
+32.0%
+0%
+104
+American University logo
+American University
+Washington, D.C., Washington, D.C.
+162
+3.63
+39.8%
+13%
+104
+Chapman University logo
+Chapman University
+Orange, California
+163
+3.70
+27.1%
+6%
+104
+Rutgers State University Newark (old) logo
+Rutgers State University Newark (old)
+Newark, New Jersey
+—
+—
+38.2%
+—
+107
+University of New Mexico logo
+University of New Mexico
+Albuquerque, New Mexico
+157
+3.56
+51.6%
+0%
+107
+Syracuse University logo
+Syracuse University
+Syracuse, New York
+158
+3.60
+39.0%
+5%
+↓9 107
+Indiana University - Indianapolis logo
+Indiana University - Indianapolis
+Indianapolis, Indiana
+155
+3.58
+62.9%
+8%
+107
+Samford University logo
+Samford University
+Birmingham, Alabama
+156
+3.63
+58.8%
+6%
+107
+University of Dayton logo
+University of Dayton
+Dayton, Ohio
+157
+3.60
+37.7%
+7%
+↑1 107
+Illinois Institute of Technology (Kent) logo
+Illinois Institute of Technology (Kent)
+Chicago, Illinois
+161
+3.72
+49.4%
+10%
+107
+Case Western Reserve University logo
+Case Western Reserve University
+Cleveland, Ohio
+162
+3.76
+37.1%
+13%
+↓4 107
+Mercer University logo
+Mercer University
+Macon, Georgia
+157
+3.62
+43.3%
+3%
+115
+University of Arkansas, Fayetteville logo
+University of Arkansas, Fayetteville
+Fayetteville, Arkansas
+158
+3.71
+28.0%
+4%
+115
+Michigan State University logo
+Michigan State University
+East Lansing, Michigan
+162
+3.73
+31.9%
+4%
+117
+University of Wyoming logo
+University of Wyoming
+Laramie, Wyoming
+156
+3.55
+62.0%
+1%
+117
+Albany Law School Of Union University logo
+Albany Law School Of Union University
+Albany, New York
+158
+3.54
+47.6%
+2%
+117
+West Virginia University logo
+West Virginia University
+Morgantown, West Virginia
+155
+3.65
+43.8%
+3%
+117
+Brooklyn Law School logo
+Brooklyn Law School
+Brooklyn, New York
+161
+3.59
+54.3%
+18%
+121
+New York Law School logo
+New York Law School
+New York City, New York
+157
+3.63
+52.7%
+13%
+121
+Cleveland State University logo
+Cleveland State University
+Cleveland, Ohio
+155
+3.50
+36.3%
+7%
+↓1 121
+University of Mississippi logo
+University of Mississippi
+Oxford, Mississippi
+157
+3.68
+46.2%
+6%
+121
+Washburn University logo
+Washburn University
+Topeka, Kansas
+155
+3.68
+73.1%
+2%
+125
+Hofstra University logo
+Hofstra University
+Hempstead, New York
+157
+3.65
+50.9%
+13%
+125
+University of New Hampshire logo
+University of New Hampshire
+Concord, New Hampshire
+155
+3.50
+60.1%
+5%
+↑9 127
+University of Akron logo
+University of Akron
+Akron, Ohio
+154
+3.51
+60.8%
+3%
+127
+Seattle University logo
+Seattle University
+Seattle, Washington
+159
+3.60
+53.2%
+3%
+127
+University of Tulsa logo
+University of Tulsa
+Tulsa, Oklahoma
+157
+3.45
+47.8%
+1%
+127
+University of South Dakota logo
+University of South Dakota
+Vermillion, South Dakota
+152
+3.47
+65.6%
+1%
+127
+Suffolk University logo
+Suffolk University
+Boston, Massachusetts
+155
+3.58
+65.3%
+12%
+127
+Howard University logo
+Howard University
+Washington, D.C., Washington, D.C.
+156
+3.63
+32.0%
+39%
+133
+DePaul University logo
+DePaul University
+Chicago, Illinois
+158
+3.61
+45.4%
+8%
+134
+Campbell University logo
+Campbell University
+Raleigh, North Carolina
+156
+3.51
+34.4%
+2%
+134
+Loyola University—New Orleans logo
+Loyola University—New Orleans
+New Orleans, Louisiana
+154
+3.47
+58.6%
+1%
+134
+Northern Kentucky University logo
+Northern Kentucky University
+Highland Heights, Kentucky
+154
+3.41
+67.5%
+6%
+134
+University of Detroit Mercy logo
+University of Detroit Mercy
+Detroit, Michigan
+156
+3.52
+47.7%
+4%
+138
+South Texas College Of Law—Houston logo
+South Texas College Of Law—Houston
+Houston, Texas
+155
+3.41
+38.8%
+6%
+139
+University of Arkansas, Little Rock logo
+University of Arkansas, Little Rock
+Little Rock , Arkansas
+153
+3.41
+39.2%
+0%
+139
+University of Baltimore logo
+University of Baltimore
+Baltimore , Maryland
+155
+3.45
+49.4%
+1%
+141
+Quinnipiac University logo
+Quinnipiac University
+North Haven, Connecticut
+155
+3.65
+61.5%
+2%
+141
+Liberty University logo
+Liberty University
+Lynchburg, Virginia
+154
+3.54
+59.1%
+2%
+141
+Pace University logo
+Pace University
+White Plains, New York
+154
+3.54
+52.4%
+6%
+141
+University of Idaho logo
+University of Idaho
+Moscow, Idaho
+153
+3.54
+67.2%
+0%
+141
+Gonzaga University logo
+Gonzaga University
+Spokane, Washington
+155
+3.55
+53.6%
+2%
+146
+University of Memphis logo
+University of Memphis
+Memphis, Tennessee
+155
+3.53
+43.8%
+1%
+146
+University of Louisville logo
+University of Louisville
+Louisville, Kentucky
+157
+3.67
+64.4%
+3%
+148
+Creighton University logo
+Creighton University
+Omaha, Nebraska
+153
+3.51
+69.6%
+3%
+148
+St. Mary's University logo
+St. Mary's University
+San Antonio, Texas
+153
+3.49
+32.5%
+0%
+↓5 150
+Willamette University logo
+Willamette University
+Salem , Oregon
+154
+3.48
+66.5%
+0%
+150
+Northern Illinois University logo
+Northern Illinois University
+DeKalb, Illinois
+150
+3.41
+55.6%
+1%
+150
+University of Toledo logo
+University of Toledo
+Toledo, Ohio
+153
+3.53
+42.2%
+0%
+153
+Ave Maria School Of Law logo
+Ave Maria School Of Law
+Ave Maria , Florida
+155
+3.36
+53.0%
+2%
+154
+Southwestern Law School logo
+Southwestern Law School
+Los Angeles, California
+157
+3.51
+39.4%
+7%
+154
+Mitchell Hamline logo
+Mitchell Hamline
+St Paul, Minnesota
+154
+3.29
+60.4%
+2%
+156
+CUNY logo
+CUNY
+Queens, New York
+155
+3.54
+40.3%
+2%
+156
+Santa Clara University logo
+Santa Clara University
+Santa Clara, California
+159
+3.50
+66.3%
+20%
+158
+Oklahoma City University logo
+Oklahoma City University
+Oklahoma City, Oklahoma
+151
+3.56
+56.4%
+0%
+158
+Elon University logo
+Elon University
+Greensboro, North Carolina
+154
+3.40
+47.9%
+2%
+158
+Mississippi College logo
+Mississippi College
+Jackson, Mississippi
+152
+3.37
+66.3%
+2%
+161
+University of North Dakota logo
+University of North Dakota
+Grand Forks, North Dakota
+151
+3.48
+52.2%
+0%
+161
+University of Massachusetts Dartmouth logo
+University of Massachusetts Dartmouth
+Dartmouth, Massachusetts
+152
+3.36
+59.9%
+0%
+163
+University of North Texas at Dallas logo
+University of North Texas at Dallas
+Dallas, Texas
+153
+3.41
+27.7%
+1%
+163
+University of the Pacific (Mcgeorge) logo
+University of the Pacific (Mcgeorge)
+Sacramento, California
+156
+3.52
+59.5%
+5%
+163
+Vermont Law School logo
+Vermont Law School
+South Royalton, Vermont
+152
+3.25
+64.7%
+1%
+166
+New England Law | Boston logo
+New England Law | Boston
+Boston, Massachusetts
+153
+3.37
+76.3%
+2%
+166
+Western New England University logo
+Western New England University
+Springfield, Massachusetts
+153
+3.27
+61.6%
+0%
+166
+University of San Francisco logo
+University of San Francisco
+San Francisco, California
+155
+3.47
+54.5%
+13%
+169
+University of Illinois—Chicago logo
+University of Illinois—Chicago
+Chicago, Illinois
+153
+3.40
+64.1%
+6%
+169
+Touro College logo
+Touro College
+Central Islip, New York
+153
+3.35
+48.3%
+1%
+169
+Widener University—Delaware logo
+Widener University—Delaware
+Wilmington, Delaware
+—
+—
+66.4%
+—
+169
+Roger Williams University logo
+Roger Williams University
+Bristol, Rhode Island
+150
+3.43
+67.7%
+1%
+169
+Lincoln Memorial logo
+Lincoln Memorial
+Knoxville, Tennessee
+153
+3.44
+54.3%
+2%
+174
+Capital University logo
+Capital University
+Columbus, Ohio
+151
+3.44
+72.2%
+2%
+175
+(Part-time) Widener University—Pennsylvania (Commonwealth) logo
+(Part-time) Widener University—Pennsylvania (Commonwealth)
+Harrisburg, Pennsylvania
+152
+3.33
+66.5%
+3%
+175
+University of Puerto Rico logo
+University of Puerto Rico
+San Juan, Puerto Rico
+152
+3.77
+49.2%
+1%
+↓3 175
+Southern Illinois University—Carbondale logo
+Southern Illinois University—Carbondale
+Carbondale, Illinois
+149
+3.38
+67.4%
+1%
+178
+Nova Southeastern University logo
+Nova Southeastern University
+Davie, Florida
+155
+3.52
+56.6%
+7%
+178
+St. Thomas University (Florida) logo
+St. Thomas University (Florida)
+Miami Gardens, Florida
+152
+3.42
+60.7%
+6%
+178
+Inter American University School of Law logo
+Inter American University School of Law
+San Juan, Puerto Rico
+144
+3.39
+54.3%
+0%
+178
+University of the District of Columbia logo
+University of the District of Columbia
+Washington, D.C., Washington, D.C.
+151
+3.28
+37.1%
+2%
+178
+Appalachian School of Law logo
+Appalachian School of Law
+Grundy, Virginia
+146
+3.20
+43.7%
+0%
+178
+Florida A&M University logo
+Florida A&M University
+Orlando, Florida
+152
+3.48
+39.6%
+6%
+178
+Southern University logo
+Southern University
+Baton Rouge, Louisiana
+147
+3.15
+62.9%
+2%
+178
+Atlanta's John Marshall Law School logo
+Atlanta's John Marshall Law School
+Atlanta, Georgia
+152
+3.13
+45.5%
+0%
+178
+Texas Southern University logo
+Texas Southern University
+Houston, Texas
+150
+3.33
+35.6%
+2%
+178
+California Western School Of Law logo
+California Western School Of Law
+San Diego, California
+155
+3.50
+55.3%
+1%
+178
+Ohio Northern University logo
+Ohio Northern University
+Ada, Ohio
+149
+3.34
+32.8%
+0%
+178
+Pontifical Catholic University logo
+Pontifical Catholic University
+Ponce, Puerto Rico
+139
+3.33
+44.3%
+0%
+178
+Barry University logo
+Barry University
+Orlando, Florida
+150
+3.23
+60.2%
+5%
+178
+Charleston School Of Law logo
+Charleston School Of Law
+Charleston, South Carolina
+154
+3.51
+50.1%
+4%
+178
+Jones School of Law logo
+Jones School of Law
+Montgomery, Alabama
+150
+3.33
+56.0%
+0%
+178
+Western Michigan University (Cooley) logo
+Western Michigan University (Cooley)
+Lansing, Michigan
+147
+3.09
+47.6%
+2%
+178
+North Carolina Central University logo
+North Carolina Central University
+Durham, North Carolina
+151
+3.31
+32.0%
+4%
+178
+Western State College Of Law logo
+Western State College Of Law
+Irvine, California
+152
+3.36
+48.5%
+0%
